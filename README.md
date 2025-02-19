@@ -11,6 +11,7 @@ A. Dataset Generation (Files):
 - Step3_ExcelToOneFile_Data
 - ErgodicSim
 - Get_data
+  
 B. Dataset Generation (Files):
 -Step1_DMNNwithRandomSearch
 -Step2_DMNNwithPrediction
