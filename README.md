@@ -1,9 +1,9 @@
 # Deep-Learning-Based-Hyperparameter-Optimization
 
-This coded is made by the paper entitled "Reconfigurable intelligent surface-aided cognitive NOMA networks: Performance analysis and deep learning evaluation"
+This code is made by the paper entitled "Reconfigurable intelligent surface-aided cognitive NOMA networks: Performance analysis and deep learning evaluation"
 Link: https://ieeexplore.ieee.org/abstract/document/9812484
 
-Note: This optimization framework includes:
+This optimization framework includes:
 
 A. Dataset Generation (Files):
 - Step1_Create_Input_Data
