@@ -13,6 +13,6 @@ A. Dataset Generation (Files):
 - Get_data
   
 B. Dataset Generation (Files):
--Step1_DMNNwithRandomSearch
--Step2_DMNNwithPrediction
--ErgodicCapacity_DNN.h5
+- Step1_DMNNwithRandomSearch
+- Step2_DMNNwithPrediction
+- ErgodicCapacity_DNN.h5
